@@ -1,0 +1,15 @@
+{
+  "name": "movierama",
+  "description": "Workable programming test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "multer": "*",
+    "cookie-parser": "*",
+    "node-json2html": "*",
+    "node-rest-client": "*"
+  }
+  
+}
